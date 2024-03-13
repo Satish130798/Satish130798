@@ -10,5 +10,8 @@
 Satish130798/Satish130798 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-AWS_SECRET_ACCESS_KEY = AKIA4YCPTJIICK
-AWS_SECRET_ACCESS_KEY = AKIA4YCPDSKDND
+AWS_SECRET_ACCESS_KEY = AKIA4YCPTJIICK4V5DFD
+
+AWS_SECRET_ACCESS_KEY = AKIA4YCPDSKDNDNJSNCS
+
+AWS_SECRET_ACCESS_KEY = AKIAUNYJZMKO7VMRKNU3
