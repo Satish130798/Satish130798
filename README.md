@@ -8,7 +8,7 @@
 
 <!---
 Satish130798/Satish130798 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+You can click the Preview link to take a look at your changes
 --->
 AWS_SECRET_ACCESS_KEY = AKIA4YCPTJIICK4V5DFD
 
