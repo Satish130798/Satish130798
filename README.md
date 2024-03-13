@@ -11,3 +11,4 @@ Satish130798/Satish130798 is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 AWS_SECRET_ACCESS_KEY = AKIAUNYJZMKO7VMRKNU3
+AWS_SECRET_ACCESS_KEY = AKIAUNYJZMKO7VMRKBKD
