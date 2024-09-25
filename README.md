@@ -12,5 +12,4 @@
 Satish130798/Satish130798 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-aws_access_key_id = AKIAXB7JD2VXW4HD3KRN
-aws_secret_access_key = CeR0Hb6N2tu4gzf1R4LoLHmgYf8L9uL5KDLyXa8X
+
